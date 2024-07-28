@@ -3,7 +3,7 @@
 
 **QepwebSafor/movies-api-fsatAPI** is a ✨ _special_ ✨ repository because its `README.md` appears on my GitHub profile.
 
-## An api wirh sqllite bd with fastapi in a movies example
+## An api wirh sqlite bd with fastapi in a movies example
 
 * Comandos git 
 
